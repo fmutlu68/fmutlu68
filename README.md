@@ -1,9 +1,9 @@
 ## Hi 👋
-👨‍💻 Computer Engineering Student at METU (ODTÜ)
-🌟 Passionate about Artificial Intelligence, Data Science, and Innovative Technologies
-📚 Currently enhancing skills in Python, Machine Learning, and ROS
-🤖 Member of the METU Mech Nautronics Team, working on robotics and autonomous systems
-🎯 Aspiring to contribute to impactful research and development projects
+👨‍💻 **Computer Engineering Student at METU (ODTÜ)**  
+🌟 Passionate about **Artificial Intelligence**, **Data Science**, and **Innovative Technologies**  
+📚 Currently enhancing skills in **Python**, **Machine Learning**, and **ROS**  
+🤖 Member of the **METU Mech Nautronics Team**, working on robotics and autonomous systems  
+
 <!--
 **fmutlu68/fmutlu68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
