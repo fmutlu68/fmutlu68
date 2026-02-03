@@ -2,7 +2,7 @@
 👨‍💻 **Freshman Computer Engineering Student at METU (ODTÜ)**  
 🌟 Passionate about **Artificial Intelligence**, **Data Science**, and **Innovative Technologies**  
 📚 Currently enhancing skills in **Python**, **Machine Learning**, and **ROS**  
-🤖 Member of the **ALTEK UAV TEAM*, working on UAVs, robotics and autonomous systems  
+🤖 Member of the **ALTEK UAV TEAM**, working on UAVs, robotics and autonomous systems  
 
 <!--
 **fmutlu68/fmutlu68** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
