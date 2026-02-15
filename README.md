@@ -1,6 +1,6 @@
 ## Hi 👋
 👨‍💻 **Freshman Computer Engineering Student at METU (ODTÜ)**  
-🌟 Passionate about **Artificial Intelligence**, **Data Science**, and **Innovative Technologies**  
+🌟 Passionate about **Artificial Intelligence**, **Financial Technologies** and **Innovative Technologies**  
 📚 Currently enhancing skills in **Python**, **Machine Learning**, and **ROS**  
 🤖 Member of the **ALTEK UAV TEAM**, working on UAVs, robotics and autonomous systems  
 
